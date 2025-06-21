@@ -1,23 +1,23 @@
 # Markdown Language Notes
 
 📑 Markdown Notes Index
-What is Markdown?
-Headings
-Emphasis (Bold, Italic, Strikethrough)
-Lists (Ordered and Unordered)
-Checkboxes (To-Do Lists)
-Code (Inline and Code Blocks)
-Links
-Images
-Blockquote
-Horizontal Rule
-Tables
-Escape Special Characters
-Line Breaks
-Table of Contents (Manual Linking)
-Markdown in VS Code - Preview
-Use Cases
-Bonus Tip (HTML in Markdown)
+1. What is Markdown?
+2. Headings
+3. Emphasis (Bold, Italic, Strikethrough)
+4. Lists (Ordered and Unordered)
+5. Checkboxes (To-Do Lists)
+6. Code (Inline and Code Blocks)
+7. Links
+8. Images
+9. Blockquote
+10. Horizontal Rule
+11. Tables
+12. Escape Special Characters
+13. Line Breaks
+14. Table of Contents (Manual Linking)
+15. Markdown in VS Code - Preview
+16. Use Cases
+17. Bonus Tip (HTML in Markdown)
 
 
 ## 📘 What is Markdown?

@@ -2,6 +2,15 @@
 
 **Topics:**
 
+TS File CConfiguration
+open using ts --init in terminal 
+- "noEmitOnError" : true   // Don't compile if there's an error
+- "target": "ES6" 
+- "module" : "es6:
+- "strict": true,   // Enable all strict type checks
+
+---
+**Index:**
 1. TS Define and Benefits
 2. TS Data Types
 3. Tuples
@@ -10,7 +19,7 @@
 6. Type
 7. Access Modifiers - Public, Private, Protected, Readonly
 8. Parameter Properties
-9. Getters and Setters
+9.  Getters and Setters
 10. Static
 11. Callback
 12. Rest and Spread
