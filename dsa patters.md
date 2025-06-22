@@ -73,10 +73,12 @@ Each section is grouped by **topic**, showing:
 
 ## 🧮 Math & Bit Manipulation
 
-| #   | Pattern Name         | How to Identify                                                 | Keywords / Triggers                            |
-| --- | -------------------- | --------------------------------------------------------------- | ---------------------------------------------- |
-| 1   | Bit Manipulation     | Work with individual bits for toggling, counting, or uniqueness | set bit, power of 2, XOR, AND, odd/even        |
-| 2   | Math / Number Theory | Divisibility, primes, GCD/LCM, modular arithmetic               | prime, factors, mod, GCD, LCM, base conversion |
+| #   | Pattern Name                                             | How to Identify                                                 | Keywords / Triggers                            |
+| --- | -------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------- |
+| 1   | Bit Manipulation                                         | Work with individual bits for toggling, counting, or uniqueness | set bit, power of 2, XOR, AND, odd/even        |
+| 2   | Math / Number Theory                                     | Divisibility, primes, GCD/LCM, modular arithmetic               | prime, factors, mod, GCD, LCM, base conversion |
+| 3   | Logarithmic / Mathematical Approach (Iterative Division) | Digit counting, Bit operations, Efficient reductions in loops   | log, divide, binary, digit count               |
+
 
 ---
 
